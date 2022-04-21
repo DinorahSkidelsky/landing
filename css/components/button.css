@@ -1,0 +1,15 @@
+.btn-medium {
+  background-color: pink;
+  border-radius: 10px;
+  padding: 15px 30px;
+  font-weight: bold;
+  color: white;
+  transition: .5s;
+  text-align: center;
+  box-shadow: 0 0 3px rgb(162, 155, 155)
+}
+
+.btn-medium:hover {
+  background-color: white;
+  color: pink;
+}

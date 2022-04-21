@@ -1,0 +1,48 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@1,300;1,800&family=Quicksand:wght@300&family=Space+Mono&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/cards.css");
+@import url("components/footer.css");
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Nunito Sans', sans-serif;
+  background: rgb(237, 237, 232);
+}
+
+h1, h3, h4 {
+  font-family: 'Nunito Sans', sans-serif;
+  padding: 25px;
+}
+
+h2 {
+  font-family: 'Nunito Sans', sans-serif;
+  padding: 25px;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+div {
+  display: block;
+}
+
+.text-center {
+  text-align: center;
+  color: rgb(108, 103, 103);
+  font-size: 25px;
+}
+
+/* Custom design below! */
